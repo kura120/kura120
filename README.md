@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://kura120.dev">
-    <img alt="My Website" title="My website" src="https://custom-icon-badges.demolab.com/badge/-kura120.dev-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
+    <img alt="My Website" title="My website" src="https://custom-icon-badges.demolab.com/badge/-kura120.dev-blue?style=for-the-badge&logo=mention&logoColor=white"/></a>
   <a href="https://github.com/kura120?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kura120?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/kura120?tab=followers">
