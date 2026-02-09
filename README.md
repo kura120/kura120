@@ -3,8 +3,9 @@
   <!--<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=FFFFFF&width=435&lines=Full-Stack+Developer" alt="Typing SVG" />-->
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kura120&theme=tokyonight" alt="GitHub Streak" /></a>
-
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kura120&theme=tokyonight" alt="GitHub Streak" /></a>
+</p>
 <p align="center">
   <a href="https://kura120.dev">
     <img alt="My Website" title="My website" src="https://custom-icon-badges.demolab.com/badge/-kura120.dev-blue?style=for-the-badge&logo=mention&logoColor=white"/></a>
