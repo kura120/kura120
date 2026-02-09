@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=auto&text=kura120&reversal=true&fontColor=FFFFFF&descAlign=0&descAlignY=0&textBg=false&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=auto&text=kura&reversal=true&fontColor=FFFFFF&descAlign=0&descAlignY=0&textBg=false&animation=fadeIn" />
   <!--<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=FFFFFF&width=435&lines=Full-Stack+Developer" alt="Typing SVG" />-->
 </p>
 
