@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://kura120.dev">
-    <img alt="Website" src="https://custom-icon-badges.demolab.com/badge/-kura120.dev-F85D7F?style=for-the-badge&logo=mention&logoColor=white&labelColor=1F222E"/>
+    <img alt="Website" src="https://img.shields.io/badge/kura120.dev-F85D7F?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F222E"/>
   </a>
   <a href="https://github.com/kura120?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/kura120?color=F8D866&style=for-the-badge&labelColor=1F222E&logo=star&logoColor=F8D866"/>
+    <img alt="Total Stars" src="https://img.shields.io/github/stars/kura120?color=F8D866&style=for-the-badge&logo=github&logoColor=F8D866&labelColor=1F222E&label=Stars"/>
   </a>
   <a href="https://github.com/kura120?tab=followers">
-    <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/kura120?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+    <img alt="Followers" src="https://img.shields.io/github/followers/kura120?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/>
   </a>
 </p>
 
@@ -47,13 +47,13 @@
 
 <p align="center">
   <a href="https://github.com/kura120/simplipy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kura120&repo=simplipy&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kura120&repo=simplipy&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
   </a>
   <a href="https://github.com/AlpineTechnology/Artemis-N">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlpineTechnology&repo=Artemis-N&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlpineTechnology&repo=Artemis-N&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
   </a>
   <a href="https://github.com/kura120/Sena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kura120&repo=Sena&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kura120&repo=Sena&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
   </a>
 </p>
 
