@@ -40,8 +40,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-007ACC?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-90D4F4?style=for-the-badge&logo=sqlite&logoColor=black" />
+  
 </p>
 
 ---
@@ -80,7 +82,8 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kura120&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" />
 </p>
