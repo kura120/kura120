@@ -1,0 +1,17 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch: # Allows manual trigger
+  schedule:
+    # Runs at midnight UTC daily
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update WakaTime DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # Checkout the repository
+      - uses: athul/waka-readme@master # Use the waka-readme action
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
