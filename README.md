@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://kura120.dev">
-    <img alt="Website" src="https://img.shields.io/badge/kura120.dev-F85D7F?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F222E"/>
+  <a href="https://kura120.github.io/portfolio/">
+    <img alt="Website" src="https://img.shields.io/badge/kura120.github.io/portfolio-F85D7F?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F222E"/>
   </a>
   <a href="https://github.com/kura120?tab=repositories&sort=stargazers">
     <img alt="Total Stars" src="https://img.shields.io/github/stars/kura120?color=F8D866&style=for-the-badge&logo=github&logoColor=F8D866&labelColor=1F222E&label=Stars"/>
