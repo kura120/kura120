@@ -16,9 +16,9 @@
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-#### Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -26,34 +26,44 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
-#### Frontend
+<p>
+
+</p>
+
+### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discorddotjs&logoColor=white" />
 </p>
 
-#### Backend & Tools
+### Databases 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/ChromaDB-FF694C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBpZD0idXVpZC01MjNmMTllMC0zZGRhLTQzNjctYjRiOS05ZDQwNTAzZWFjM2EiIHZpZXdCb3g9IjAgMCA3Mi40NSA0OC4zIj4KPHRpdGxlPkNocm9tYSBsb2dvIC0gQnJhbmRsb2dvcy5uZXQ8L3RpdGxlPjxkZWZzPjxtYXNrIGlkPSJ1dWlkLTM0NTdmNzJlLWQ5MGUtNDdiMS1hNGRkLTVhYmY0ODllYmE5OCIgeD0iMCIgeT0iMCIgd2lkdGg9IjcyLjQ1IiBoZWlnaHQ9IjQ4LjMiIG1hc2tVbml0cz0idXNlclNwYWNlT25Vc2UiPjxnIGlkPSJ1dWlkLTJlOTYyYjA0LWMzMDAtNGEyYi05ZDJmLTY1YzdhM2YwZjFhOSI+PHBhdGggZD0iTTcyLjQ1LDBIMHY0OC4zaDcyLjQ1VjBaIiBzdHlsZT0iZmlsbDojZmZmOyIvPjwvZz48L21hc2s+PC9kZWZzPjxnIHN0eWxlPSJtYXNrOnVybCgjdXVpZC0zNDU3ZjcyZS1kOTBlLTQ3YjEtYTRkZC01YWJmNDg5ZWJhOTgpOyI+PHBhdGggZD0iTTI0LjE1LDBDMTAuODEsMCwwLDEwLjgxLDAsMjQuMTVzMTAuODEsMjQuMTUsMjQuMTUsMjQuMTUsMjQuMTUtMTAuODEsMjQuMTUtMjQuMTVTMzcuNDksMCwyNC4xNSwwIiBzdHlsZT0iZmlsbDp3aGl0ZTsiLz48cGF0aCBkPSJNNDguMywwYy0xMy4zNCwwLTI0LjE1LDEwLjgxLTI0LjE1LDI0LjE1czEwLjgxLDI0LjE1LDI0LjE1LDI0LjE1LDI0LjE1LTEwLjgxLDI0LjE1LTI0LjE1UzYxLjY0LDAsNDguMywwIiBzdHlsZT0iZmlsbDp3aGl0ZTsiLz48cGF0aCBkPSJNMjQuMTUsMjQuMTVDMjQuMTUsMTAuODEsMzQuOTYsMCw0OC4zLDB2MjQuMTVoLTI0LjE1Wk00OC4zLDI0LjE1YzAsMTMuMzQtMTAuODEsMjQuMTUtMjQuMTUsMjQuMTV2LTI0LjE1aDI0LjE1WiIgc3R5bGU9ImZpbGw6d2hpdGU7Ii8+PC9nPjwvc3ZnPg==&logoColor=white" />
 </p>
-<details>
-  <summary>Extras</summary>
-  <h4>IDE & Additionals</h4> 
-  <p>
-    <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" />
-    <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </p>
-</details>
+
+### AI / ML / Data Science
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 ---
 
 ### Featured Projects
