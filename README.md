@@ -72,6 +72,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+### Learning
+<p>
+  <img src="https://img.shields.io/badge/Cognee-084CCF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agno-f53d00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
 ---
 
 ### Featured Projects
