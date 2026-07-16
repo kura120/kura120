@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 <p>
@@ -58,7 +59,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Semantic Kernel-3F1F9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Llama.cpp-3F1F9A?style=for-the-badge" />
 
 </p>
 
@@ -69,33 +70,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
-### Learning
-<p>
-  <img src="https://img.shields.io/badge/Cognee-084CCF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agno-f53d00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
----
-
-### Featured Projects
-
-<p align="center">
-  <a href="https://github.com/kura120/simplipy">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kura120&repo=simplipy&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/kura120/portfolio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kura120&repo=portfolio&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/kura120/Sena">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kura120&repo=Sena&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-</p>
-
 ---
 
 ### Statistics
